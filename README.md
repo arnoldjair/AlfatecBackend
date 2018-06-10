@@ -13,3 +13,6 @@ Listar un empleado concreto que pertenece a un departamento | :heavy_check_mark:
 Borrar un empleado que pertenece a un departamento          | :heavy_check_mark: | :heavy_check_mark:
 Modificar los atributos de la entidad Empleado              | :heavy_check_mark: | :heavy_check_mark:
 
+## Construcción ##
+
+$ mvn clean ; mvn install 
